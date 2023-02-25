@@ -12,7 +12,7 @@ return (
         <Container>
             <div className='quote-box position-absolute'>
                 <FontAwesomeIcon icon={faMoneyBillTrendUp} className='golden-color display-1 p-5'  />
-                <h2 className='text-white font-weight-bold'>GREAT THINGS IN BUSINESS ARE NEVER DONE BY ONE PERSON. THEY’RE DONE BY A TEAM OF PEOPLE.</h2>
+                <h2 className='text-white font-weight-bold'>GREAT THINGS IN BUSINESS ARE NEVER DONE BY ONE PERSON. THEY’RE DONE BY A TEAM OF PEOPLE</h2>
             </div>
         </Container>
     </section>
