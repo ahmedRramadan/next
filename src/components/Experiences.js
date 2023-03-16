@@ -33,21 +33,21 @@ return (
                     <AnimationOnScroll duration={0.8} animateOnce={true} animateIn="animate__fadeInRight">
                     <Accordion defaultActiveKey={0}>
                                 <Accordion.Item eventKey={0} className='mb-3'>
-                                    <Accordion.Header className='d-flex align-items-start'><span className='h6'>1.</span><h3 className='h6'>Climate Change May Hurt Babies' Hearts</h3></Accordion.Header>
+                                    <Accordion.Header className='d-flex align-items-start'><span className='h6'>1.</span><h3 className='h6'>Climate Change May Hurt Babies Hearts</h3></Accordion.Header>
                                     <Accordion.Body>
-                                    Climate change is melting ice, intensifying storms and bleaching coral reefs, and now, a new study suggests that it could also take a toll on babies' hearts.
+                                    Climate change is melting ice, intensifying storms and bleaching coral reefs, and now, a new study suggests that it could also take a toll on babies hearts.
                                     </Accordion.Body>
                                 </Accordion.Item>
                                 <Accordion.Item eventKey={1} className='mb-3'>
                                     <Accordion.Header className='d-flex align-items-start'><span className='h6'>2.</span><h3 className='h6'>How Does a Person Freeze to Death?</h3></Accordion.Header>
                                     <Accordion.Body>
-                                    has brought bitter cold — even Arctic-like temperatures — to parts of the Upper Midwest and Eastern U.S., and this frigid air may have you feeling like you could "freeze to death.
+                                    has brought bitter cold even Arctic-like temperatures to parts of the Upper Midwest and Eastern US and this frigid air may have you feeling like you could freeze to death
                                     </Accordion.Body>
                                 </Accordion.Item>
                                 <Accordion.Item eventKey={2}>
-                                    <Accordion.Header className='d-flex align-items-start'><span className='h6'>3.  </span><h3 className='h6'>Women's Brains Are 3 Years 'Younger' Than Men's, Study Suggests</h3></Accordion.Header>
+                                    <Accordion.Header className='d-flex align-items-start'><span className='h6'>3.  </span><h3 className='h6'>Womens Brains Are 3 Years Younger Than Mens Study Suggests</h3></Accordion.Header>
                                     <Accordion.Body>
-                                    You've heard of being "young at heart," but what about young in the brain? A new study suggests that, by at least one measure, women's brains are biologically younger than men's of the same age.
+                                    You ve heard of being young at heart but what about young in the brain A new study suggests that by at least one measure women s brains are biologically younger than mens of the same age.
                                     </Accordion.Body>
                                 </Accordion.Item>
                         </Accordion> 
