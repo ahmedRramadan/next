@@ -12,11 +12,11 @@ function Footer(){
           <h5 className="text-uppercase mb-4">About Pharmacy</h5>
           <p>
           The easiest way to order and follow up with your monthly medications.
-          All medicines are dispensed from pharmacies licensed by the Egyptian ministry of health..
+          All medicines are dispensed from pharmacies licensed by the Egyptian ministry of health
           </p>
 
           <p>
-          All medicines are dispensed from pharmacies licensed by the Egyptian ministry of healths.
+          All medicines are dispensed from pharmacies licensed by the Egyptian ministry of healths
           </p>
 
           <div className="mt-4 d-flex align-items-center justify-content-center justify-content-lg-start">
