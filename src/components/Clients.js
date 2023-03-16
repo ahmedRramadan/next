@@ -29,8 +29,8 @@ return (
             </div>
             </AnimationOnScroll>
             <Row className='clients-message-box position-absolute'>
-                <Col md={6}><div className='clients-message golden-color-bg  p-5 h4 rounded-top m-0 h-100'>WE’RE COMMITTED TO DELIVER <br/> HIGH QUALITY PROJECTS .</div></Col>
-                <Col md={6}><div className='clients-message bg-white p-5 h3 rounded-top end-0 m-0 h-100' id='clients-message'>WE’RE TRUSTED BY <br/> MORE THAN 6260 CLIENTS.</div></Col>
+                <Col md={6}><div className='clients-message golden-color-bg  p-5 h4 rounded-top m-0 h-100'>WERE COMMITTED TO DELIVER <br/> HIGH QUALITY PROJECTS .</div></Col>
+                <Col md={6}><div className='clients-message bg-white p-5 h3 rounded-top end-0 m-0 h-100' id='clients-message'>WERE TRUSTED BY <br/> MORE THAN 6260 CLIENTS.</div></Col>
             </Row>
             <Swiper className='mySwiper clients-swiper d-flex '
                 slidesPerView={1}
